@@ -1,0 +1,25 @@
+{
+  "name": "laravel-elixir-rtl",
+  "version": "0.0.2",
+  "description": "Laravel Elixir RTL Extension",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "*",
+    "gulp-postcss": "*",
+    "laravel-elixir": "*",
+    "rtlcss": "*"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pi0/laravel-elixir-rtl.git"
+  },
+  "author": "Pooya Parsa <pooya@pi0.ir>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pi0/laravel-elixir-rtl/issues"
+  },
+  "homepage": "https://github.com/pi0/laravel-elixir-rtl#readme"
+}
